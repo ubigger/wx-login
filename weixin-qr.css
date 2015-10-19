@@ -1,0 +1,21 @@
+.title
+{
+    display: none;
+}
+.impowerBox .qrcode
+{
+    margin-top: 5px;
+    width: 160px;
+}
+.status_browser
+{
+    display: none;
+}
+
+iframe
+{
+    height: 300px;
+}
+
+.status_icon {display:none}
+.impowerBox .status {text-align:center;}
